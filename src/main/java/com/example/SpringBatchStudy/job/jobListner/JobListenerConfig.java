@@ -16,7 +16,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * desc : Hello World 출력
+ * desc : Job전후 로그처리 및 fail 분기
  * run: --spring.batch.job.names=jobListenerJob
  */
 @Configuration
