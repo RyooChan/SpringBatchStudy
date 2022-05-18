@@ -1,0 +1,6 @@
+Abduka00,Abdul-Jabbar,rb,26
+AbduRa00,Abdullah,rb,23
+AberWa00,Abercrombie,rv,40
+AbraDa00,Abramowicz,wr,55
+AdamBo00,Adams,te,53
+AdamCh00,Adams,wr,19
